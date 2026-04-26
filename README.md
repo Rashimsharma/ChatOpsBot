@@ -1,3 +1,3 @@
 # ChatOpsBot
 
-<img width="601" height="310" alt="image" src="https://github.com/user-attachments/assets/062ffdcf-725c-4f08-963a-7f351efad834" />
+<img width="307" height="236" alt="image" src="https://github.com/user-attachments/assets/5b969cf8-5825-4f0e-8023-6488b3dd724e" />
